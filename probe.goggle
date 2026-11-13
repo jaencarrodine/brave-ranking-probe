@@ -1,8 +1,8 @@
 ! name: Brave ranking probe (test)
 ! description: Test goggle for a ranking-signal experiment. Boosts every result whose title mentions the head term, so compliance can be told from irrelevance.
 ! public: true
-! homepage: https://github.com/superagnt/brave-ranking-probe
-! author: superagnt_
+! homepage: https://github.com/jaencarrodine/brave-ranking-probe
+! author: jaencarrodine
 
 ! Boost only results that carry the term in the title; everything else is left alone.
 //$title=lindy$boost=10
